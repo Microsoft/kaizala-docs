@@ -1,8 +1,8 @@
 	
 # Get Started
 ## [Overview of Kaizala App](https://support.office.com/en-us/article/get-to-know-kaizala-22700f1d-274f-4533-8956-247c733f6ae6)
-## [Overview of Kaizala Management Portal](https://docs.microsoft.com/en-us/Office365/Kaizala/kaizala-management-portal)
-## [Kaizala availability and Download links](https://docs.microsoft.com/en-us/Office365/Kaizala/regional-availability)
+## [Overview of Kaizala Management Portal](https://docs.microsoft.com/Office365/Kaizala/kaizala-management-portal)
+## [Kaizala availability and Download links](https://docs.microsoft.com/Office365/Kaizala/regional-availability)
 
 # Developer Platform
 ## [About Microsoft Kaizala Developer Platform](developer-platform.md)
@@ -62,7 +62,7 @@
 ## [Life at Work](BusinessSolutions/Life%40Work/Life%40Work.md)
 ### [Employee Help Desk](BusinessSolutions/Life%40Work/EmployeeHelpDesk/EmployeeHelpDesk.md)
 ### [Drive Performance using Leaderboard](BusinessSolutions/Life%40Work/Leaderboard/Leaderboard.md)
-### [Get structured answers to your questions from co-workers](https://docs.microsoft.com/en-us/kaizala/businesssolutions/life@work/qna/qna)
+### [Get structured answers to your questions from co-workers](https://docs.microsoft.com/kaizala/businesssolutions/life@work/qna/qna)
 ## [Integrating Kaizala data to your custom dashboards](PartnerDocs/IntegratingKaizalaData.md)
 
 
